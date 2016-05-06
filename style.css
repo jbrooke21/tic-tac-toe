@@ -1,0 +1,13 @@
+.squares {
+	width: 100%;
+	height: 250px;
+	border: #000 1px solid;
+}
+
+
+.playerx, .playery {
+	font-size: 16px;
+	text-align: center;
+	
+
+}
